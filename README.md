@@ -12,10 +12,4 @@ Medium Article: [Bottom navigation Animation in Jetpack Compose][0]
 
 ## App Previews
 
-* Light Theme
-
-https://github.com/sanathsajeevakumara/BottomNavigationAnimation/assets/11756630/64f56075-6598-4263-9b5e-461e50463bba
-
-* Dark Theme
-
-https://github.com/sanathsajeevakumara/BottomNavigationAnimation/assets/11756630/4cb60c1f-d1b3-42bf-a866-9fa2c8487aa4
+[device-2023-08-01-095713.webm](https://github.com/LuuNgocLan/BottomNavigationAnimation/assets/29207172/df842a72-5e7e-49d3-801d-e6c8e73a0fce)
